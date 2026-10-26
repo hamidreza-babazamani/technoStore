@@ -46,6 +46,3 @@ Hamidreza Babazamani
 
 ## مستندات API
 پس از اجرای سرور، صفحه مستندات Swagger در آدرس زیر در دسترس است: `http://localhost:5001/api-docs`
-
-## نویسنده
-حمیدرضا بابازمانی
