@@ -20,9 +20,6 @@ A production-ready REST API for an e-commerce platform built with Node.js, Expre
 ## API Documentation
 Once the server is running, Swagger UI is available at: `http://localhost:5001/api-docs`
 
-## Author
-Hamidreza Babazamani
-
 ---
 
 # بک‌اند فروشگاه تکنو (TechnoStore)
